@@ -10,8 +10,6 @@ const ProductDetailImage = ({ locationData }) => {
     }
   }, []);
 
-  console.log(imageData);
-
   return (
     <ProductDetailImageWrapper>
       <h2 className="hidden">상세 이미지</h2>
