@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const apiUrl = "http://35.76.53.28:8080/";
+const apiUrl = "https://test.api.weniv.co.kr/";
 
 const instance = axios.create({
   baseURL: apiUrl,
