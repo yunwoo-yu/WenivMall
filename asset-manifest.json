@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/WenivMall/static/css/main.10d116d0.css",
+    "main.js": "/WenivMall/static/js/main.ba4c80a2.js",
+    "static/media/SpoqaHanSans-Light.woff": "/WenivMall/static/media/SpoqaHanSans-Light.2efd9d0cd25cfd2e3e16.woff",
+    "static/media/SpoqaHanSans-Thin.woff": "/WenivMall/static/media/SpoqaHanSans-Thin.fa5d85bca1b2b4ad3c56.woff",
+    "static/media/SpoqaHanSans-Regular.woff": "/WenivMall/static/media/SpoqaHanSans-Regular.a4038e1b6c14b2b6028c.woff",
+    "static/media/SpoqaHanSans-Bold.woff": "/WenivMall/static/media/SpoqaHanSans-Bold.9f50fee9013d88ea4012.woff",
+    "static/media/SpoqaHanSans-Regular.woff2": "/WenivMall/static/media/SpoqaHanSans-Regular.f0dfba6d8d96921fc0dc.woff2",
+    "static/media/SpoqaHanSans-Bold.woff2": "/WenivMall/static/media/SpoqaHanSans-Bold.c7298d774729a38947f4.woff2",
+    "static/media/SpoqaHanSans-Light.woff2": "/WenivMall/static/media/SpoqaHanSans-Light.fe35728c84dba43483ea.woff2",
+    "static/media/SpoqaHanSans-Thin.woff2": "/WenivMall/static/media/SpoqaHanSans-Thin.7204984cda33621b74fb.woff2",
+    "static/media/icon-shopping-cart.svg": "/WenivMall/static/media/icon-shopping-cart.18235e9416ff46dab4873fcc9fa86f00.svg",
+    "static/media/icon-shopping-cart-white.svg": "/WenivMall/static/media/icon-shopping-cart-white.441d73e268955e0e16f25fa56bcbaf72.svg",
+    "static/media/icon-heart-on.svg": "/WenivMall/static/media/icon-heart-on.0f6bbd4903724c3c16387efb41f92a03.svg",
+    "static/media/icon-heart.svg": "/WenivMall/static/media/icon-heart.f68a21bc77488dac8c34b7650d1237ab.svg",
+    "index.html": "/WenivMall/index.html",
+    "main.10d116d0.css.map": "/WenivMall/static/css/main.10d116d0.css.map",
+    "main.ba4c80a2.js.map": "/WenivMall/static/js/main.ba4c80a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10d116d0.css",
+    "static/js/main.ba4c80a2.js"
+  ]
+}
