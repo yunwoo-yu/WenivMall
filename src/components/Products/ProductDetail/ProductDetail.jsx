@@ -36,7 +36,7 @@ const ProductDetail = ({ locationData }) => {
       {data && (
         <div className="detail-main">
           <img
-            src={`http://test.api.weniv.co.kr/${data.thumbnailImg}`}
+            src={`https://test.api.weniv.co.kr/${data.thumbnailImg}`}
             alt=""
           />
           <ul>
